@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Hutech</string>
+    <string name="no_network_message">You are not connected to the internet.</string>
+    <string name="urban_fresh_not_available">Urban Fresh is not Available for this location</string>
+    <string name="choose_other_address">To Continue Shopping.Choose another address</string>
+</resources>
